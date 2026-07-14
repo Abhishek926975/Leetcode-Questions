@@ -20,4 +20,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0303-range-sum-query-immutable) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
