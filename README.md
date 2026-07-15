@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0043-multiply-strings) |
 | [0657-robot-return-to-origin](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0657-robot-return-to-origin) |
+| [1603-design-parking-system](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1603-design-parking-system) |
 ## Stack
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0303-range-sum-query-immutable) |
+| [1603-design-parking-system](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1603-design-parking-system) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
