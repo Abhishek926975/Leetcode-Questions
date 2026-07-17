@@ -11,6 +11,23 @@ class Solution {
         // Sort by length so shorter words are checked against longer ones
         // Arrays.sort(words, Comparator.comparingInt(String::length));
         
+        // for (int i = 0; i < n; i++) {
+        //     for (int j = i + 1; j < n; j++) {
+        //         if (words[j].contains(words[i])) {
+        //             ans.add(words[i]);
+        //             break; // Found a match, no need to check further
+        //         }
+        //     }
+        // }
+        // return ans;
+
+
+
+        
+        
+        // Sort by length so shorter words are checked against longer ones
+        // Arrays.sort(words, Comparator.comparingInt(String::length));
+        
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
                 if (i!=j && words[j].contains(words[i])) {
