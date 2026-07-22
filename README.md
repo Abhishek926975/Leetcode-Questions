@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0729-my-calendar-i) |
 | [1408-string-matching-in-an-array](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1408-string-matching-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1732-find-the-highest-altitude) |
 ## Design
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
 | ------- |
