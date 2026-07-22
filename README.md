@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0680-valid-palindrome-ii) |
 | [0824-goat-latin](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0824-goat-latin) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0680-valid-palindrome-ii) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Counting
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0729-my-calendar-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
