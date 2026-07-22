@@ -2,7 +2,7 @@ class Solution {
     public int largestAltitude(int[] gain) {
         
         int currentAlti=0;
-        int highestAlti=currentAlti;
+        int highestAlti=0;
 
         for(int i=0;i<gain.length;i++){
             currentAlti+=gain[i];
