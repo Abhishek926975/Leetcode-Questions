@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1408-string-matching-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1748-sum-of-unique-elements) |
 ## Design
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1603-design-parking-system) |
+| [1748-sum-of-unique-elements](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1748-sum-of-unique-elements) |
 ## Number Theory
 |  |
 | ------- |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0392-is-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
