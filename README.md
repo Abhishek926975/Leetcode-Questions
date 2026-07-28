@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0729-my-calendar-i](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0729-my-calendar-i) |
 | [1408-string-matching-in-an-array](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1408-string-matching-in-an-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0169-majority-element) |
 | [1603-design-parking-system](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1603-design-parking-system) |
 | [1748-sum-of-unique-elements](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1748-sum-of-unique-elements) |
 ## Number Theory
@@ -98,13 +100,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0169-majority-element) |
 | [1748-sum-of-unique-elements](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0169-majority-element) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
