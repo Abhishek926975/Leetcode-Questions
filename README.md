@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1748-sum-of-unique-elements) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1848-minimum-distance-to-the-target-element) |
 ## Design
 |  |
 | ------- |
