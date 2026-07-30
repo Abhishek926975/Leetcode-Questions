@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0043-multiply-strings) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-goat-latin](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0824-goat-latin) |
 | [1408-string-matching-in-an-array](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0680-valid-palindrome-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String Matching
 |  |
 | ------- |
