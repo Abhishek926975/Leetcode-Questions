@@ -11,24 +11,35 @@
 class Solution {
     public ListNode middleNode(ListNode head) {
 
-        int count=0;
-        ListNode temp=head;
+    //     int count=0;
+    //     ListNode temp=head;
 
-        while(temp!=null){
-            count++;
-            temp=temp.next;
+    //     while(temp!=null){
+    //         count++;
+    //         temp=temp.next;
+    //     }
+
+    //     int mid=count/2;
+
+    //     temp=head;
+
+    //    for(int i=0;i<mid;i++){
+    //     temp=temp.next;
+    //    }
+
+    //     return temp;
+
+
+        //optimal approach
+
+        ListNode slow=head, fast=head;
+
+        while(fast!=null && fast.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
         }
-
-        int mid=count/2;
-
-        temp=head;
-
-       for(int i=0;i<mid;i++){
-        temp=temp.next;
-       }
-
-        return temp;
-        
-        
+        return slow;
+        //TC: O(n)
+        //SC: O(1)
     }
 }
