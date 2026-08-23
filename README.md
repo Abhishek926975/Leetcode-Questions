@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0043-multiply-strings) |
+| [1927-sum-game](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-goat-latin](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0824-goat-latin) |
 | [1408-string-matching-in-an-array](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1927-sum-game](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Simulation
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0680-valid-palindrome-ii) |
+| [1927-sum-game](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String Matching
@@ -174,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
