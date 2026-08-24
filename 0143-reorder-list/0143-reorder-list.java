@@ -46,29 +46,46 @@ class Solution {
         ListNode t2=prev;
 
 
+        //using two connection conecting based on that 
+
+        // while(t1!=null && t2!=null){
+
+        //     tail.next=t1;
+        //     tail=tail.next;
+        //     t1=t1.next;
+
+        //     tail.next=t2;
+        //     tail=tail.next;
+        //     t2=t2.next;
+
+
+        // }   
+
+
+        //connection based the index value like if odd we add the t1 and if even we add t2
         int i=1;
+        while(t1!=null&& t2!=null){
+            if(i%2==1){
+                tail.next=t1;
+                tail=tail.next;
+                t1=t1.next;
+            }
+            else{
+                tail.next=t2;
+                tail=tail.next;
+                t2=t2.next;
+            }
 
-        while(t1!=null && t2!=null){
+            i++;
+        }
+        if (t1 != null){
+            tail.next = t1;
+        }
+        else{
+            tail.next = t2;
+        }
+         head=dummy.next;
 
-            tail.next=t1;
-            tail=tail.next;
-            t1=t1.next;
-
-            tail.next=t2;
-            tail=tail.next;
-            t2=t2.next;
-
-
-        }   
-         if (t1 != null) tail.next = t1;
-        if (t2 != null) tail.next = t2;
-        head=dummy.next;
-
-    // return head;
-
-
-
-          
         }
         
     }
