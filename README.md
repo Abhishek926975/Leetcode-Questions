@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0414-third-maximum-number) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0027-remove-element) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
