@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0729-my-calendar-i](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0729-my-calendar-i) |
+| [0875-koko-eating-bananas](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0875-koko-eating-bananas) |
 | [1408-string-matching-in-an-array](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1408-string-matching-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0729-my-calendar-i) |
+| [0875-koko-eating-bananas](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1539-kth-missing-positive-number) |
 ## Segment Tree
 |  |
