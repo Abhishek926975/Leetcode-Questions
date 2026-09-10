@@ -8,6 +8,7 @@ class Solution {
             j=Math.max(j,nums[k]);
         }
 
+        int ans=0;
 
         while(i<=j){
 
@@ -18,6 +19,7 @@ class Solution {
 
 
             if(flag==true){
+                
                 j=mid-1;
             }
             else i=mid+1;
