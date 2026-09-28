@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0729-my-calendar-i](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0729-my-calendar-i) |
 | [0875-koko-eating-bananas](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0875-koko-eating-bananas) |
+| [1095-find-in-mountain-array](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1408-string-matching-in-an-array](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1408-string-matching-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0729-my-calendar-i) |
 | [0875-koko-eating-bananas](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0875-koko-eating-bananas) |
+| [1095-find-in-mountain-array](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1539-kth-missing-positive-number) |
@@ -201,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1927-sum-game) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1095-find-in-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
