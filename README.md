@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0680-valid-palindrome-ii) |
 | [0824-goat-latin](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0824-goat-latin) |
+| [1021-remove-outermost-parentheses](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1408-string-matching-in-an-array](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1927-sum-game](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1927-sum-game) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -231,4 +233,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Abhishek926975/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
